@@ -1,1 +1,1 @@
-# vister
+python3 bot.py +9647700953542
